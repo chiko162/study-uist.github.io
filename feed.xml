@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 25 Jan 2018 19:39:12 +0900</pubDate>
-    <lastBuildDate>Thu, 25 Jan 2018 19:39:12 +0900</lastBuildDate>
+    <pubDate>Thu, 25 Jan 2018 20:43:26 +0900</pubDate>
+    <lastBuildDate>Thu, 25 Jan 2018 20:43:26 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -20,9 +20,11 @@
 &lt;p&gt;2018年3月3日 15:00~17:30（懇親会 17:45~）&lt;/p&gt;
 
 &lt;h2 id=&quot;section-2&quot;&gt;会場&lt;/h2&gt;
-&lt;p&gt;東京工業大学 大岡山キャンパス&lt;/p&gt;
+&lt;p&gt;東京工業大学 大岡山キャンパス 西5号館3階 レクチャーシアター&lt;/p&gt;
 
-&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2546.5274321854386!2d139.68413441133055!3d35.60728271951886!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f88b899cc553%3A0x5d0763367373fca5!2z5p2x5Lqs5bel5qWt5aSn5a2m!5e0!3m2!1sja!2sjp!4v1516866022961&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;&lt;a href=&quot;http://www.kuba.co.jp/sesj2016/pdf/campusmap.pdf&quot;&gt;建物までの詳しい地図&lt;/a&gt;&lt;/p&gt;
+
+&lt;iframe src=&quot;https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1864.2089292227445!2d139.68217719380726!3d35.60549209826605!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x6018f5305d0b00d1%3A0x74189cc8c3e7599a!2z44CSMTQ1LTAwNjEg5p2x5Lqs6YO95aSn55Sw5Yy655-z5bed55S677yR5LiB55uu77yT77yRIOWkp-WyoeWxseilv--8leWPt-mkqA!5e0!3m2!1sja!2sjp!4v1516879727266&quot; width=&quot;100%&quot; height=&quot;450&quot; frameborder=&quot;0&quot; style=&quot;border:0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;地図へのリンクは&lt;a href=&quot;https://goo.gl/maps/Jzq1htzyUsT2&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 
@@ -33,7 +35,7 @@
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;&quot;&gt;こちら&lt;/a&gt;から発表したい論文を選んで、Sessionの欄に自分の名前を記入する。&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1skZE678o7irGPg73rX9XbMwKcxMw0JpgbO-VRddO7-o/edit&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; - &lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から発表申込をしてください。&lt;/p&gt;
@@ -70,14 +72,14 @@
 &lt;h2 id=&quot;section-8&quot;&gt;発表について&lt;/h2&gt;
 &lt;p&gt;1論文1分30秒〜2分で発表をお願いします。&lt;/p&gt;
 
-&lt;p&gt;時間内に論文の紹介を終えることができそうにない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
+&lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-9&quot;&gt;発表スライドの作り方&lt;/h3&gt;
 
 &lt;h4 id=&quot;section-10&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h4&gt;
 &lt;p&gt;論文は ACM Digital Library で見つけることが出来ます。&lt;/p&gt;
 
-&lt;p&gt;Proceedingsは&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3126594&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Proceedingsは&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3126594&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
 
 &lt;h4 id=&quot;awards&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awardsかを調べる&lt;/h4&gt;
 &lt;p&gt;担当論文が何らかのAwardを授与されている場合はその旨を記載してください。&lt;/p&gt;
