@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 21:35:19 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 21:35:19 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 22:00:19 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 22:00:19 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -76,24 +76,24 @@
 
 &lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-9&quot;&gt;発表スライドの作り方&lt;/h3&gt;
+&lt;h2 id=&quot;section-9&quot;&gt;発表スライドの作り方&lt;/h2&gt;
 
-&lt;h4 id=&quot;section-10&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h4&gt;
+&lt;h3 id=&quot;section-10&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
 &lt;p&gt;論文はACM Digital Libraryで見つけることが出来ます。&lt;/p&gt;
 
 &lt;p&gt;Proceedingsは&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3126594&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
 
-&lt;h4 id=&quot;awards&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awardsかを調べる&lt;/h4&gt;
+&lt;h3 id=&quot;awards&quot;&gt;&lt;strong&gt;2&lt;/strong&gt; Awardsかを調べる&lt;/h3&gt;
 &lt;p&gt;担当論文が何らかのAwardを授与されている場合はその旨を記載してください。&lt;/p&gt;
 
 &lt;p&gt;Awardを授与されている論文は&lt;a href=&quot;https://uist.acm.org/uist2017/&quot;&gt;こちら&lt;/a&gt;のAwardsの欄を御覧ください。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-11&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h4&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
 &lt;p&gt;今回の勉強会では、参加者の交流を深めるため、発表の初めに簡単な自己紹介をすることを推奨しています。
 自分の研究やお仕事の内容など自由に1スライドにまとめてください。
 発表の初めに30秒以内で自己紹介をしてください。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-12&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h4&gt;
+&lt;h3 id=&quot;section-12&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
 &lt;p&gt;1論文につき最大2スライドで資料を作成してください。
 スライドは&lt;strong&gt;16:9&lt;/strong&gt;で作成してください。
 できるだけ図や写真を取り入れることを心がけてください。&lt;/p&gt;
@@ -109,7 +109,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/sh/bqiotcp24ofvs1c/AAALW84-zisw3KGfezZ3hqPra?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
 
-&lt;h4 id=&quot;section-13&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h4&gt;
+&lt;h3 id=&quot;section-13&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
 &lt;p&gt;最終的なスライド構成は「自己紹介スライド（1枚）」＋「論文紹介スライド（1~2枚）」× (発表する論文数)となります。
 自己紹介スライドは発表スライドの1ページ目に挿入してください。&lt;/p&gt;
 
@@ -119,7 +119,7 @@
 
 &lt;p&gt;提出先：&lt;a href=&quot;https://www.dropbox.com/request/AlDzUcm90PLBLiXKM4sw&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 
-&lt;h3 id=&quot;pc&quot;&gt;発表用PCについて&lt;/h3&gt;
+&lt;h2 id=&quot;pc&quot;&gt;発表用PCについて&lt;/h2&gt;
 &lt;p&gt;発表用PCは運営が用意したものを使用します。&lt;/p&gt;
 </description>
         <pubDate>Thu, 25 Jan 2018 00:00:00 +0900</pubDate>
