@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 17:50:51 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 17:50:51 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 17:52:16 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 17:52:16 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -55,7 +55,9 @@
 
 &lt;h2 id=&quot;section-6&quot;&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;勉強会後に懇親会を予定しております。
-参加登録は&lt;a href=&quot;http://ptix.at/mkA1Sl&quot;&gt;こちら&lt;/a&gt;よりお願い致します。&lt;/p&gt;
+参加登録は下記フォームおよび&lt;a href=&quot;http://ptix.at/mkA1Sl&quot;&gt;こちら&lt;/a&gt;よりお願い致します。&lt;/p&gt;
+
+&lt;iframe frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;600&quot; src=&quot;https://peatix.com/event/345451/share/widget?z=1&amp;amp;t=1&amp;amp;a=1&quot;&gt;&lt;/iframe&gt;
 
 &lt;h2 id=&quot;section-7&quot;&gt;幹事&lt;/h2&gt;
 &lt;ul&gt;
