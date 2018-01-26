@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 18:09:22 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 18:09:22 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 21:35:19 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 21:35:19 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -50,9 +50,8 @@
 
 &lt;h3 id=&quot;section-5&quot;&gt;2. 参加申し込み&lt;/h3&gt;
 
-&lt;p&gt;聴講のみの参加も受け付けております。&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から聴講者として申込をしてください。&lt;/p&gt;
+&lt;p&gt;聴講のみの参加も受け付けております。
+&lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から聴講者として申込をしてください。&lt;/p&gt;
 
 &lt;h2 id=&quot;section-6&quot;&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;勉強会後に懇親会を予定しております。
