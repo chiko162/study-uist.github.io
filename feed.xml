@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 17:55:33 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 17:55:33 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 18:03:40 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 18:03:40 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -104,7 +104,7 @@
   &lt;li&gt;・論文タイトル&lt;/li&gt;
   &lt;li&gt;・著者＋所属&lt;/li&gt;
   &lt;li&gt;・画像（効果的に活用してください）&lt;/li&gt;
-  &lt;li&gt;・Arawdを授与されているか（されている場合は優勝カップの画像を載せる）&lt;/li&gt;
+  &lt;li&gt;・Arawdを授与されているか&lt;/li&gt;
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/sh/bqiotcp24ofvs1c/AAALW84-zisw3KGfezZ3hqPra?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
