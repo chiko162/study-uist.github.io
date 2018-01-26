@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 18:03:40 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 18:03:40 +0900</lastBuildDate>
+    <pubDate>Fri, 26 Jan 2018 18:08:43 +0900</pubDate>
+    <lastBuildDate>Fri, 26 Jan 2018 18:08:43 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -29,13 +29,14 @@
 &lt;p&gt;地図へのリンクは&lt;a href=&quot;https://goo.gl/maps/Jzq1htzyUsT2&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;section-3&quot;&gt;参加方法&lt;/h2&gt;
+&lt;p&gt;UITS勉強会#4には次の2つの方法で参加いただけます。&lt;/p&gt;
 
 &lt;h3 id=&quot;section-4&quot;&gt;発表申し込み&lt;/h3&gt;
 &lt;p&gt;次の手順で申し込みをしてください。&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;
-    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1skZE678o7irGPg73rX9XbMwKcxMw0JpgbO-VRddO7-o/edit&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;/p&gt;
+    &lt;p&gt;&lt;strong&gt;1.&lt;/strong&gt; - &lt;a href=&quot;https://docs.google.com/spreadsheets/d/1skZE678o7irGPg73rX9XbMwKcxMw0JpgbO-VRddO7-o/edit?usp=sharing&quot;&gt;こちら&lt;/a&gt;から発表したい論文の担当者名記入列に自分の名前を記入する。&lt;/p&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;p&gt;&lt;strong&gt;2.&lt;/strong&gt; - &lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から発表申込をしてください。&lt;/p&gt;
