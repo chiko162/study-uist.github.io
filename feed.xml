@@ -5,8 +5,8 @@
     <description>UIST勉強会のお知らせページです</description>
     <link>/</link>
     <atom:link href="/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jan 2018 22:00:19 +0900</pubDate>
-    <lastBuildDate>Fri, 26 Jan 2018 22:00:19 +0900</lastBuildDate>
+    <pubDate>Tue, 30 Jan 2018 12:52:39 +0900</pubDate>
+    <lastBuildDate>Tue, 30 Jan 2018 12:52:39 +0900</lastBuildDate>
     <generator>Jekyll v3.0.1</generator>
     
       <item>
@@ -28,10 +28,13 @@
 
 &lt;p&gt;地図へのリンクは&lt;a href=&quot;https://goo.gl/maps/Jzq1htzyUsT2&quot;&gt;こちら&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;section-3&quot;&gt;参加方法&lt;/h2&gt;
+&lt;h2 id=&quot;section-3&quot;&gt;参加費&lt;/h2&gt;
+&lt;p&gt;無料（懇親会3250円）&lt;/p&gt;
+
+&lt;h2 id=&quot;section-4&quot;&gt;参加方法&lt;/h2&gt;
 &lt;p&gt;UITS勉強会#4には次の2つの方法で参加いただけます。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-4&quot;&gt;1. 発表申し込み&lt;/h3&gt;
+&lt;h3 id=&quot;section-5&quot;&gt;1. 発表申し込み&lt;/h3&gt;
 &lt;p&gt;次の手順で申し込みをしてください。&lt;/p&gt;
 
 &lt;ul&gt;
@@ -46,20 +49,22 @@
 &lt;p&gt;以上で完了、当日お待ちしております。
 発表スライドの提出をお忘れなく！&lt;/p&gt;
 
+&lt;p&gt;提出期限は &lt;strong&gt;2018/2/28&lt;/strong&gt; です。&lt;/p&gt;
+
 &lt;p&gt;発表形式はページ下の&lt;strong&gt;発表について&lt;/strong&gt;を御覧ください。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-5&quot;&gt;2. 参加申し込み&lt;/h3&gt;
+&lt;h3 id=&quot;section-6&quot;&gt;2. 参加申し込み&lt;/h3&gt;
 
 &lt;p&gt;聴講のみの参加も受け付けております。
 &lt;a href=&quot;https://goo.gl/forms/L5onuTt3wf87qLkA2&quot;&gt;こちら&lt;/a&gt;から聴講者として申込をしてください。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-6&quot;&gt;懇親会&lt;/h2&gt;
+&lt;h2 id=&quot;section-7&quot;&gt;懇親会&lt;/h2&gt;
 &lt;p&gt;勉強会後に懇親会を予定しております。
 参加登録は下記フォームおよび&lt;a href=&quot;http://ptix.at/mkA1Sl&quot;&gt;こちら&lt;/a&gt;よりお願い致します。&lt;/p&gt;
 
 &lt;iframe frameborder=&quot;0&quot; width=&quot;100%&quot; height=&quot;400&quot; src=&quot;https://peatix.com/event/345451/share/widget?z=1&amp;amp;t=1&amp;amp;a=1&quot;&gt;&lt;/iframe&gt;
 
-&lt;h2 id=&quot;section-7&quot;&gt;幹事&lt;/h2&gt;
+&lt;h2 id=&quot;section-8&quot;&gt;幹事&lt;/h2&gt;
 &lt;ul&gt;
   &lt;li&gt;松田 暁（東京大学）&lt;/li&gt;
   &lt;li&gt;宮藤 詩緒（東京工業大学）&lt;/li&gt;
@@ -71,14 +76,14 @@
 
 &lt;hr /&gt;
 
-&lt;h2 id=&quot;section-8&quot;&gt;発表について&lt;/h2&gt;
+&lt;h2 id=&quot;section-9&quot;&gt;発表について&lt;/h2&gt;
 &lt;p&gt;1論文1分30秒〜2分で発表をお願いします。&lt;/p&gt;
 
 &lt;p&gt;時間内に論文の紹介を終えられない場合は、「詳しくは論文を読んでください！」と発表を終えても構いません。&lt;/p&gt;
 
-&lt;h2 id=&quot;section-9&quot;&gt;発表スライドの作り方&lt;/h2&gt;
+&lt;h2 id=&quot;section-10&quot;&gt;発表スライドの作り方&lt;/h2&gt;
 
-&lt;h3 id=&quot;section-10&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
+&lt;h3 id=&quot;section-11&quot;&gt;&lt;strong&gt;1&lt;/strong&gt; 論文データの取得&lt;/h3&gt;
 &lt;p&gt;論文はACM Digital Libraryで見つけることが出来ます。&lt;/p&gt;
 
 &lt;p&gt;Proceedingsは&lt;a href=&quot;https://dl.acm.org/citation.cfm?id=3126594&quot;&gt;こちら&lt;/a&gt;。&lt;/p&gt;
@@ -88,12 +93,12 @@
 
 &lt;p&gt;Awardを授与されている論文は&lt;a href=&quot;https://uist.acm.org/uist2017/&quot;&gt;こちら&lt;/a&gt;のAwardsの欄を御覧ください。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-11&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
+&lt;h3 id=&quot;section-12&quot;&gt;&lt;strong&gt;3&lt;/strong&gt; 自己紹介スライドを作る&lt;/h3&gt;
 &lt;p&gt;今回の勉強会では、参加者の交流を深めるため、発表の初めに簡単な自己紹介をすることを推奨しています。
 自分の研究やお仕事の内容など自由に1スライドにまとめてください。
 発表の初めに30秒以内で自己紹介をしてください。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-12&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
+&lt;h3 id=&quot;section-13&quot;&gt;&lt;strong&gt;4&lt;/strong&gt; 発表スライドを作る&lt;/h3&gt;
 &lt;p&gt;1論文につき最大2スライドで資料を作成してください。
 スライドは&lt;strong&gt;16:9&lt;/strong&gt;で作成してください。
 できるだけ図や写真を取り入れることを心がけてください。&lt;/p&gt;
@@ -109,7 +114,7 @@
 
 &lt;p&gt;&lt;a href=&quot;https://www.dropbox.com/sh/bqiotcp24ofvs1c/AAALW84-zisw3KGfezZ3hqPra?dl=0&quot;&gt;こちら&lt;/a&gt;のスライドのレイアウトを参考に作成してください。&lt;/p&gt;
 
-&lt;h3 id=&quot;section-13&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
+&lt;h3 id=&quot;section-14&quot;&gt;&lt;strong&gt;5&lt;/strong&gt; 提出&lt;/h3&gt;
 &lt;p&gt;最終的なスライド構成は「自己紹介スライド（1枚）」＋「論文紹介スライド（1~2枚）」× (発表する論文数)となります。
 自己紹介スライドは発表スライドの1ページ目に挿入してください。&lt;/p&gt;
 
